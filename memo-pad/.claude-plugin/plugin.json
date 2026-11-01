@@ -1,0 +1,1 @@
+{ "name": "memo-pad", "version": "0.1.0", "description": "Side-pane memo pad; saved memos appear as buttons above the prompt and persist across sessions", "types": "./types/index.d.ts" }

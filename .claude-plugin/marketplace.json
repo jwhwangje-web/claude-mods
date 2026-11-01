@@ -1,0 +1,16 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "jwhwangje-web" },
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": "./usage-band",
+      "description": "A band above the prompt showing remaining usage (5-hour and weekly), disk and memory"
+    },
+    {
+      "name": "memo-pad",
+      "source": "./memo-pad",
+      "description": "A memo pad in a side pane; saved memos appear as buttons above the prompt and are kept across sessions"
+    }
+  ]
+}
